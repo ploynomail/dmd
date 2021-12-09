@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"reflect"
 
-	"github.com/ploynomail/dmd/clauses"
+	"dmd/clauses"
 
 	"github.com/thoas/go-funk"
 	"gorm.io/gorm"

@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	_ "github.com/ploynomail/dmd/dm"
+	_ "dmd/dm"
 
 	"github.com/thoas/go-funk"
 	"gorm.io/gorm"
@@ -17,7 +17,7 @@ import (
 	"gorm.io/gorm/migrator"
 	"gorm.io/gorm/schema"
 
-	"github.com/ploynomail/dmd/clauses"
+	"dmd/clauses"
 )
 
 type Config struct {
