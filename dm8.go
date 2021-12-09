@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	_ "dmd/dm"
+	_ "github.com/ploynomail/dm"
 
 	"github.com/thoas/go-funk"
 	"gorm.io/gorm"
