@@ -17,7 +17,7 @@ import (
 	"gorm.io/gorm/migrator"
 	"gorm.io/gorm/schema"
 
-	"dmd/clauses"
+	"github.com/ploynomail/dmd/clauses"
 )
 
 type Config struct {
