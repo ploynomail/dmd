@@ -1,4 +1,4 @@
-module dmd
+module github.com/ploynomail/dmd
 
 go 1.16
 

@@ -2,7 +2,7 @@ package datatype
 
 import (
 	"database/sql/driver"
-	"dmd/dm"
+	"github.com/ploynomail/dmd/dm"
 	"errors"
 	"fmt"
 )
